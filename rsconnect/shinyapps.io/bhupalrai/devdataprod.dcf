@@ -1,0 +1,9 @@
+name: devdataprod
+account: bhupalrai
+server: shinyapps.io
+appId: 91113
+bundleId: 405724
+url: https://bhupalrai.shinyapps.io/devdataprod/
+when: 1459270666.50988
+asMultiple: FALSE
+asStatic: FALSE
